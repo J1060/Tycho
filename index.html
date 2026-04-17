@@ -230,6 +230,12 @@ async function loadIndex() {
   const res = await fetch("markdown/index.json");
   articles = await res.json();
 
+  for (let a of articles) {
+    const md = await loadMarkdown(a.file);
+    const title = extractTitle(md);
+    a.slug = a.slug || slugify(title);
+  }
+
   fillTagFilter();
   router();
 }
@@ -286,6 +292,15 @@ function scoreText(text, query) {
   return score;
 }
 
+function slugify(text) {
+  return text
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
+
 async function showList() {
   contentDiv.innerHTML = "";
 
@@ -309,7 +324,8 @@ async function showList() {
 
     if (search && score === 0) continue;
 
-    results.push({ a, md, title, preview, score });
+    const slug = a.slug || slugify(title);
+    results.push({ a, md, title, preview, score, slug });
   }
 
   results.sort((a, b) => b.score - a.score);
@@ -328,7 +344,7 @@ async function showList() {
     `;
 
     div.onclick = () => {
-      window.location.hash = r.a.slug;
+      window.location.hash = r.slug;
       showArticle(r.a.file);
     };
 
@@ -353,10 +369,27 @@ function goHome() {
 
 function router() {
   const hash = window.location.hash.replace("#", "");
-  const a = articles.find(x => x.slug === hash);
+
+  const a = articles.find(x => {
+    if (x.slug === hash) return true;
+
+    // fallback: slug z názvu
+    const title = cache[x.file]
+      ? extractTitle(cache[x.file])
+      : null;
+
+    if (!title) return false;
+
+    return slugify(title) === hash;
+  });
 
   if (a) showArticle(a.file);
   else showList();
+}
+
+function extractTitle(md) {
+  const match = md.match(/^# (.*)/);
+  return match ? match[1] : "Untitled";
 }
 
 searchInput.addEventListener("input", showList);
