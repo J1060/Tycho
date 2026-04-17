@@ -1,49 +1,41 @@
 [
   {
     "file": "1.md",
-    "slug": "ai-trend",
     "tags": ["Technologie", "Ai"],
     "date": "2026-04-13"
   },
   {
     "file": "2.md",
-    "slug": "oceany",
     "tags": ["Věda", "Ekologie / příroda"],
     "date": "2026-04-13"
   },
   {
     "file": "3.md",
-    "slug": "budoucnost-prace",
     "tags": ["Společnost", "Ekonomika"],
     "date": "2026-04-13"
   },
   {
     "file": "4.md",
-    "slug": "mesta-budoucnosti",
     "tags": ["Technologie", "Města"],
     "date": "2026-04-13"
   },
   {
     "file": "5.md",
-    "slug": "vesmirne-mise",
     "tags": ["Věda", "Vesmír"],
     "date": "2026-04-13"
   },
   {
     "file": "6.md",
-    "slug": "minimalismus",
     "tags": ["Lifestyle", "Psychologie"],
     "date": "2026-04-13"
   },
   {
     "file": "7.md",
-    "slug": "kyberbezpecnost",
     "tags": ["Technologie", "Bezpečnost"],
     "date": "2026-04-13"
   },
   {
     "file": "8.md",
-    "slug": "umele-jidlo",
     "tags": ["Věda", "Potraviny"],
     "date": "2026-04-13"
   }
