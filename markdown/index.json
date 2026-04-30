@@ -1,22 +1,42 @@
 [
   {
-    "file": "rozhovor_ben.md",
-    "tags": ["Rozhovor", "Majáles"],
-    "date": "2026-04-30"
+    "file": "1.md",
+    "tags": ["Technologie", "Ai"],
+    "date": "2026-04-13"
   },
   {
-    "file": "rozhovor_theo.md",
-    "tags": ["Rozhovor", "Majáles"],
-    "date": "2026-04-30"
+    "file": "2.md",
+    "tags": ["Věda", "Ekologie / příroda"],
+    "date": "2026-04-13"
   },
   {
-    "file": "rozhovor_sofie.md",
-    "tags": ["Rozhovor", "Majáles"],
-    "date": "2026-04-30"
+    "file": "3.md",
+    "tags": ["Společnost", "Ekonomika"],
+    "date": "2026-04-13"
   },
   {
-    "file": "rozhovor_sara.md",
-    "tags": ["Rozhovor", "Majáles"],
-    "date": "2026-04-30"
+    "file": "4.md",
+    "tags": ["Technologie", "Města"],
+    "date": "2026-04-13"
+  },
+  {
+    "file": "5.md",
+    "tags": ["Věda", "Vesmír"],
+    "date": "2026-04-13"
+  },
+  {
+    "file": "6.md",
+    "tags": ["Lifestyle", "Psychologie"],
+    "date": "2026-04-13"
+  },
+  {
+    "file": "7.md",
+    "tags": ["Technologie", "Bezpečnost"],
+    "date": "2026-04-13"
+  },
+  {
+    "file": "8.md",
+    "tags": ["Věda", "Potraviny"],
+    "date": "2026-04-13"
   }
 ]
