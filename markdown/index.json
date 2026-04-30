@@ -1,19 +1,22 @@
 [
   {
     "file": "rozhovor_ben.md",
+    "title": "Rozhovor s Benem",
     "date": "2026-04-13"
   },
   {
     "file": "rozhovor_sara.md",
+    "title": "Rozhovor se Sarou",
     "date": "2026-04-13"
   },
   {
     "file": "rozhovor_sofie.md",
+    "title": "Rozhovor se Sofií",
     "date": "2026-04-13"
   },
   {
     "file": "rozhovor_theo.md",
+    "title": "Rozhovor s Theem",
     "date": "2026-04-13"
   }
-  {
-    ]
+]
