@@ -1,8 +1,14 @@
-\# Jak se financuje Majáles? Odpovídá Teodor Heller z LSD 
+\# Jak se financuje Majáles? Odpovídá Teodor Heller z LSD
+
+
 
 Teodor Heller se staral o finance majálesu LSD, tak jsem ho vyzpovídal.                            Jak těžké je sehnat rekvizity, jaké je to se starat o finance jeho Majálesu a co by poradil příštím pokladníkům Majálesů? Nejen na to všechno naleznete odpověď v tomto rozhovoru.
 
+
+
 \## Jaké to je starat se o finance Majálesu s názvem LSD?
+
+
 
 Název LSD může být trošku zavádějící, když člověk neví, co se za těmi písmeny skrývá – je to Láska, Svoboda, Demokracie. Téma je velmi svobodné, veselé a bujaré. S financemi jsme se snažili najít cestu, která bude vyhovovat všem. Nakonec jsme zvolili stejnou cestu jako většina ostatních tříd, tedy že každý dal na Majáles tisícovku. Měli jsme tím pádem rozpočet nějakých 27 až 28 tisíc. Z toho jsme všechno vyčerpali a doufáme, že se nám to vrátí, až prodáme naše produkty a merch, který jsme objednali.
 
@@ -25,14 +31,4 @@ Určitě výzdoba, která se nám opravdu povedla. Máme pestrobarevné návrhy,
 \## Co bys poradil lidem, kteří se budou starat o finance v příštích Majálesech?
 
 Poradil bych jim, aby si udělali nějaký plán. My jsme to nechali dost volně, neudělali jsme si plán na to, co kolik bude stát, a nechali jsme to běžet. Jde to udělat i takhle, ale poradil bych jim, aby si vymysleli, do čeho chtějí dát kolik peněz a dobře si ty finance rozvrhli. Zároveň aby měli ode všeho účtenky a faktury, aby to po skončení Majálesu mohli pořádně a správně vyúčtovat.
-
-
-
-
-
-
-
-
-
-
 
