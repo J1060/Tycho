@@ -1,42 +1,19 @@
 [
   {
     "file": "rozhovor_ben.md",
-    "tags": ["Technologie", "Ai"],
     "date": "2026-04-13"
   },
   {
-    "file": "2.md",
-    "tags": ["Věda", "Ekologie / příroda"],
+    "file": "rozhovor_sara.md",
     "date": "2026-04-13"
   },
   {
-    "file": "3.md",
-    "tags": ["Společnost", "Ekonomika"],
+    "file": "rozhovor_sofie.md",
     "date": "2026-04-13"
   },
   {
-    "file": "4.md",
-    "tags": ["Technologie", "Města"],
+    "file": "rozhor_theo.md",
     "date": "2026-04-13"
   },
   {
-    "file": "5.md",
-    "tags": ["Věda", "Vesmír"],
-    "date": "2026-04-13"
-  },
-  {
-    "file": "6.md",
-    "tags": ["Lifestyle", "Psychologie"],
-    "date": "2026-04-13"
-  },
-  {
-    "file": "7.md",
-    "tags": ["Technologie", "Bezpečnost"],
-    "date": "2026-04-13"
-  },
-  {
-    "file": "8.md",
-    "tags": ["Věda", "Potraviny"],
-    "date": "2026-04-13"
-  }
-]
+   
