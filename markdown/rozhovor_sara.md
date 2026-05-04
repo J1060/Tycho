@@ -1,4 +1,4 @@
-\# Na co se můžeme těšit ve čtvrtek?
+# Na co se můžeme těšit ve čtvrtek?
 
 
 
@@ -6,7 +6,7 @@ Můžete se těšit na vyvrcholení a odhalení, kdo se stane faraonem. Samozře
 
 
 
-\## Cítíte se být otroky systému?
+## Cítíte se být otroky systému?
 
 
 
@@ -22,7 +22,7 @@ Nejrychlejší velbloudi jsou ti, které krmíte hodně mrkví. Doporučujeme se
 
 
 
-\## Slyšeli jsme, že se v Egyptě uctívají kočky. Říkali jsme si, že jich je na škole celkem dost, k jakým konkrétně vzhlížíte?
+## Slyšeli jsme, že se v Egyptě uctívají kočky. Říkali jsme si, že jich je na škole celkem dost, k jakým konkrétně vzhlížíte?
 
 
 
@@ -30,7 +30,7 @@ Naší oblíbenou kočkou je samozřejmě Kleopatra. Jinak všechny profesorky v
 
 
 
-\## Doslechla jsem se, že v Egyptě neroste tráva, ale jen papyrus. Je to omezující?
+## Doslechla jsem se, že v Egyptě neroste tráva, ale jen papyrus. Je to omezující?
 
 
 
@@ -38,7 +38,7 @@ Do papyrusu se dá tabák zabalit taky, kouřit se to dá taky, takže všechno 
 
 
 
-\## Poslední otázka: co říkáte na ostatní Majálesy?
+## Poslední otázka: co říkáte na ostatní Majálesy?
 
 
 
