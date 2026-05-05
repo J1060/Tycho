@@ -1,10 +1,3 @@
-# Na co se můžeme těšit ve čtvrtek?
-
-
-
-Můžete se těšit na vyvrcholení a odhalení, kdo se stane faraonem. Samozřejmě
-
-
 
 ## Cítíte se být otroky systému?
 
@@ -14,7 +7,7 @@ Já jsem otrokář, takže ne.
 
 
 
-Všimli jsme si, že kleopatra má dost solidní káru. Chtěli jsme se zeptat, jestli nemáte nějaké doporučení na značky velbloudů pro všechny fanoušky motosportu.
+## Všimli jsme si, že kleopatra má dost solidní káru. Chtěli jsme se zeptat, jestli nemáte nějaké doporučení na značky velbloudů pro všechny fanoušky motosportu.
 
 
 
@@ -42,7 +35,7 @@ Do papyrusu se dá tabák zabalit taky, kouřit se to dá taky, takže všechno 
 
 
 
-Samozřejmě víme, že se všichni snaží, ale zároveň víme, že někdo musí být lepší…
+Samozřejmě víme, že se všichni snažili, ale zároveň víme, že někdo musí být lepší…
 
-ale jsme rádi, že si to tady všichni užívají a doufáme, že z toho budou mít všichni co nejlepší zážitek.
+ale jsme rádi, že si to tady všichni užili a doufáme, že z toho budou mít všichni co nejlepší vzpomínky.
 
