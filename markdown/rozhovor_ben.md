@@ -2,7 +2,7 @@
 
 
 
-Nějaké rekvizity jsme vyráběli my sami, to hlavně dělaly holky na hodinách estetického projektu. Jinak to nebylo zas až tak moc práce, tam jsme ještě jakoby trávili hodně ten víkend před Majálesem. A jinak nějaký věci jsme kupovali třeba z Humru, nějaké věci byly docela levné a vzhledem k tomu, že každý dali 1000 korun, tak jsme měli solidní budget.   No, takže výzdoba byla tak napůl koupená, napůl vyrobená, to vlastně šlo poznat na chodbě, který věci byly hezčí. A no jinak zas tak složitý s těma věcma to nebylo.
+Nějaké rekvizity jsme vyráběli my sami, to hlavně dělaly holky na hodinách estetického projektu. Jinak to nebylo zas až tak moc práce, tam jsme ještě jakoby trávili hodně ten víkend před Majálesem. A jinak nějaký věci jsme kupovali třeba z Humru, nějaké věci byly docela levné a vzhledem k tomu, že každý dali 1000 korun, tak jsme měli solidní budget.  No, takže výzdoba byla tak napůl koupená, napůl vyrobená, to vlastně šlo poznat na chodbě, který věci byly hezčí. A no jinak zas tak složitý s těma věcma to nebylo.
 
 
 
