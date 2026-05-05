@@ -10,15 +10,15 @@ Teodor Heller se staral o finance majálesu LSD, tak jsem ho vyzpovídal.       
 
 
 
-Název LSD může být trošku zavádějící, když člověk neví, co se za těmi písmeny skrývá – je to Láska, Svoboda, Demokracie. Téma je velmi svobodné, veselé a bujaré. S financemi jsme se snažili najít cestu, která bude vyhovovat všem. Nakonec jsme zvolili stejnou cestu jako většina ostatních tříd, tedy že každý dal na Majáles tisícovku. Měli jsme tím pádem rozpočet nějakých 27 až 28 tisíc. Z toho jsme všechno vyčerpali a doufáme, že se nám to vrátí, až prodáme naše produkty a merch, který jsme objednali.
+Název LSD může být trošku zavádějící, když člověk neví, co se za těmi písmeny skrývá – je to Láska, Svoboda, Demokracie. Téma je velmi svobodné, veselé a bujaré. S financemi jsme se snažili najít cestu, která bude vyhovovat všem. Nakonec jsme zvolili stejnou cestu jako většina ostatních tříd, tedy že každý dal na Majáles tisícovku. Měli jsme tím pádem rozpočet nějakých 27 až 28 tisíc. 
 
 ## Jaký je u vás aktuální kurz bonu?
 
-Náš obchod Tuzex je ve druhém patře u ředitelny. Kurz bonu je velice kolísavý a nelze úplně jasně říct, jaká ta hodnota je. Záleží vždy na aktuálních informacích od prodavačů, protože bonů je málo, takže jsme se s nimi příliš nesetkali. Zatím platíme jen v českých korunách.
+Kurz bonu je velice kolísavý a nelze úplně jasně říct, jaká ta hodnota je. Záleží vždy na aktuálních informacích od prodavačů, protože bonů je málo, takže jsme se s nimi příliš nesetkali. Zatím platíme jen v českých korunách.
 
 ## Pocítili jste při nákupu rekvizit reálný nedostatek zboží? Je dnes těžší sehnat originální digitálky a plísňáky, než bylo v osmdesátkách sehnat banány?
 
-Je to náročné, ale máme ve třídě šikovné lidi, kteří se o to postarali. Zatím jsem se s nimi o tom moc nebavil, ale myslím, že to zvládli. Horší než banány to není. Banány v osmdesátkách byly špatné, ale pokud bude o naše zboží velký zájem, tak se budou opravdu stát doslova fronty na banány a bude to horší.
+Je to náročné, ale máme ve třídě šikovné lidi, kteří se o to postarali. Zatím jsem se s nimi o tom moc nebavil, ale myslím, že to zvládli. Horší než banány to není. 
 
 ## Co považuješ za nejsilnější stránku vašeho Majálesu?
 
