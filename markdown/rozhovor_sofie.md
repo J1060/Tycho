@@ -1,6 +1,6 @@
-# Jak jste k tomuto tématu přišli?
+# Rozhovor se Sofií z Vesnice
 
-
+## Jak jste k tomuto tématu přišli?
 
 Začali jsme to řešit už na konci druháku. Nějaká část třídy měla předpřipravené jedno téma, byl to středověk. Ale většina třídy to nechtěla. Tak jsme udělali další kolo nápadů. Vzešla z toho dvě témata: mafie a vesnice. Provedli jsme tedy hlasování, které dopadlo nerozhodně. Nakonec se však jeden hlas překlopil ve prospěch vesnice. Bylo to hodně natěsno, což si myslím, nebylo úplně nejlepší. Začali jsme dělat vesnici, pořád se tam však projevovaly náměty ze středověku, tak jsme udělali kompromis, že vesnice má období, ale to není úplně striktní. Zařidili jsme tam tedy různé prvky.
 
